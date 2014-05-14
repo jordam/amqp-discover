@@ -1,9 +1,9 @@
 amqp-discover
 =============
 
-Tool to discover channels on an amqp / rabbitmq server
+Tool to discover channels/queues and exchanges on an amqp / rabbitmq server
 
-Brute forces amqp channels
+Brute forces amqp channels/queues and exchanges
 For those times you forget your channels ;)
 
 This code was written quickly out of neccesity for a single server
